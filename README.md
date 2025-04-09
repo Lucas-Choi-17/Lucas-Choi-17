@@ -14,8 +14,8 @@
 |1|콘솔|JAVA|주식거래 시스템<br>([BBIC](https://github.com/Lucas-Choi-17/OOP-BBIC))|2024.04.02<br>~2024.04.05|메인메뉴에서 각 기능 연결 역할|
 |2|콘솔|JAVA|놀이공원 이용 서비스<br>([5racle](https://github.com/Lucas-Choi-17/JD-5racle))|2024.04.25<br>~2024.04.30|놀이기구 예약 기능 개발|
 |3|콘솔|JAVA|쇼핑몰 창고 관리 프로그햄<br>([Meossg](https://github.com/Lucas-Choi-17/wms-meossg))|2024.05.16<br>~2024.05.21|쇼핑몰 상품/주문 관리 기능,<br> 쇼핑몰 매출 확인 기능,<br> 회원 구매 및 구매 내역 확인 기능 구현|
-|4|웹|JAVA, SpringBoot, Thymleaf|전자기기렌탈서비스<br>([Shop-NotImplement](https://github.com/Lucas-Choi-17/shop-notImplement/tree/main))|2024.06.25<br>~2024.06.28|배송/적립금 관리|
-|5|웹|JAVA, SpringBoot, Thymleaf|음식점리뷰커뮤니티<br>([FoodFolio](https://github.com/Lucas-Choi-17/final-whiskey))|2024.07.19<br>~2024.08.30|지도 기능,<br>음식점 노출 기능,<br>음식점 상세 정보 관리 기능 구현|
+|4|웹|JAVA, SpringBoot|전자기기렌탈서비스<br>([Shop-NotImplement](https://github.com/Lucas-Choi-17/shop-notImplement/tree/main))|2024.06.25<br>~2024.06.28|배송/적립금 관리|
+|5|웹|JAVA, SpringBoot|음식점리뷰커뮤니티<br>([FoodFolio](https://github.com/Lucas-Choi-17/final-whiskey))|2024.07.19<br>~2024.08.30|지도 기능,<br>음식점 노출 기능,<br>음식점 상세 정보 관리 기능 구현|
 
 </div>
 
